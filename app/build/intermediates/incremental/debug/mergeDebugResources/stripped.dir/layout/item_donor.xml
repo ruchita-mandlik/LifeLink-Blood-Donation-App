@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/spacing_md"
+    android:layout_marginVertical="@dimen/spacing_sm"
+    app:cardCornerRadius="@dimen/corner_radius_md"
+    app:cardElevation="@dimen/card_elevation"
+    app:cardBackgroundColor="@color/card_background"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/spacing_md">
+
+        <TextView
+            android:id="@+id/tvBloodGroup"
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:background="@drawable/bg_circle_placeholder"
+            android:gravity="center"
+            android:textColor="@color/red_primary"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            tools:text="O+"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/tvDonorName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_md"
+            android:textAppearance="@style/TextAppearance.LifeLink.Title"
+            tools:text="Ravi Kumar"
+            app:layout_constraintTop_toTopOf="@id/tvBloodGroup"
+            app:layout_constraintStart_toEndOf="@id/tvBloodGroup"
+            app:layout_constraintEnd_toStartOf="@id/tvAvailability" />
+
+        <TextView
+            android:id="@+id/tvCity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_md"
+            android:layout_marginTop="2dp"
+            android:textAppearance="@style/TextAppearance.LifeLink.Body"
+            tools:text="Mumbai"
+            app:layout_constraintTop_toBottomOf="@id/tvDonorName"
+            app:layout_constraintStart_toEndOf="@id/tvBloodGroup"
+            app:layout_constraintEnd_toStartOf="@id/tvAvailability" />
+
+        <TextView
+            android:id="@+id/tvPhone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_md"
+            android:layout_marginTop="2dp"
+            android:textAppearance="@style/TextAppearance.LifeLink.Body"
+            tools:text="9876543210"
+            app:layout_constraintTop_toBottomOf="@id/tvCity"
+            app:layout_constraintStart_toEndOf="@id/tvBloodGroup"
+            app:layout_constraintEnd_toStartOf="@id/tvAvailability" />
+
+        <TextView
+            android:id="@+id/tvAvailability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="4dp"
+            android:textSize="11sp"
+            android:background="@drawable/bg_status_available"
+            tools:text="Available"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

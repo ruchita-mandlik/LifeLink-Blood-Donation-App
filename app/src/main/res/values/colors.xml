@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_primary_dark">#B71C1C</color>
+    <color name="red_primary_light">#FF6659</color>
+    <color name="red_accent">#FF1744</color>
+    <color name="red_soft">#FFEBEE</color>
+    <color name="red_gradient_start">#EF5350</color>
+    <color name="red_gradient_end">#B71C1C</color>
+
+    <!-- Neutral -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="off_white">#FAFAFA</color>
+    <color name="grey_light">#EEEEEE</color>
+    <color name="grey_medium">#9E9E9E</color>
+    <color name="grey_dark">#616161</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Status Colors -->
+    <color name="green_success">#2E7D32</color>
+    <color name="orange_warning">#F57C00</color>
+    <color name="red_error">#C62828</color>
+
+    <!-- Surface -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="background">#FAFAFA</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="ripple">#33D32F2F</color>
+
+    <!-- Blood Group Chip -->
+    <color name="chip_background">#FFCDD2</color>
+    <color name="chip_text">#B71C1C</color>
+</resources>

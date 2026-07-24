@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/row_detail_item.xml",
+        "source": "com.lifelink.app-main-46:/layout/row_detail_item.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_register_donor.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_register_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_edit_profile.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/item_blood_request.xml",
+        "source": "com.lifelink.app-main-46:/layout/item_blood_request.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_dashboard.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_settings.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/item_donation_history.xml",
+        "source": "com.lifelink.app-main-46:/layout/item_donation_history.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_splash.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_search_donor.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_search_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/layout_toolbar.xml",
+        "source": "com.lifelink.app-main-46:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/layout_empty_state.xml",
+        "source": "com.lifelink.app-main-46:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/item_blood_group_stat.xml",
+        "source": "com.lifelink.app-main-46:/layout/item_blood_group_stat.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_donation_history.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_donation_history.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_about.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/row_menu_item.xml",
+        "source": "com.lifelink.app-main-46:/layout/row_menu_item.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/item_donor.xml",
+        "source": "com.lifelink.app-main-46:/layout/item_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_blood_request.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_blood_request.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_donor_details.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_donor_details.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_profile.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/dialog_mark_donation.xml",
+        "source": "com.lifelink.app-main-46:/layout/dialog_mark_donation.xml"
+    },
+    {
+        "merged": "com.lifelink.app-mergeDebugResources-43:/layout/activity_register.xml",
+        "source": "com.lifelink.app-main-46:/layout/activity_register.xml"
+    }
+]

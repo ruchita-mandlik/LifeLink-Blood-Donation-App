@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_search.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lifelink.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.lifelink.app-main-46:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/mipmap_ic_launcher.xml.flat",
+        "source": "com.lifelink.app-main-46:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lifelink.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_item_blood_request.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/item_blood_request.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_row_menu_item.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/row_menu_item.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/menu_menu_search_donor.xml.flat",
+        "source": "com.lifelink.app-main-46:/menu/menu_search_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_layout_toolbar.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.lifelink.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_slide_left_out.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/slide_left_out.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_status_available.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_status_available.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_login.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_about.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_search_donor.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_search_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_edittext.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_call.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_droplet_stat.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_droplet_stat.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_fab.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_fab.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_settings.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_register.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_splash_logo_anim.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/splash_logo_anim.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_register_donor.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_register_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_card_rounded.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_card_rounded.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_profile.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_blood_request.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_blood_request.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_settings.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_edit_profile.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_layout_empty_state.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_item_blood_group_stat.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/item_blood_group_stat.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_add.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_search.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_toolbar.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_toolbar.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_history.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_delete.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_splash.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_dashboard.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_donor_details.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_donor_details.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_edit.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_fade_in.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_calendar.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.lifelink.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_blood_drop_red.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_blood_drop_red.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_button_outline.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_home.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_profile.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_dialog_mark_donation.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/dialog_mark_donation.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_empty_state.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_empty_state.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_slide_right_out.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/slide_right_out.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_scale_up.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_info.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_phone.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_person.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_warning.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/menu_menu_toolbar.xml.flat",
+        "source": "com.lifelink.app-main-46:/menu/menu_toolbar.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_lock.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_logout.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_slide_left_in.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/slide_left_in.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_status_unavailable.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_status_unavailable.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_slide_right_in.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/slide_right_in.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_email.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_item_donation_history.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/item_donation_history.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_gradient_splash_background.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/gradient_splash_background.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_activity_donation_history.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/activity_donation_history.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_back.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_item_donor.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/item_donor.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_ripple_card.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_ripple_card.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.lifelink.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_button_rounded.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_button_rounded.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_blood_drop.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_blood_drop.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/anim_fade_out.xml.flat",
+        "source": "com.lifelink.app-main-46:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_circle_placeholder.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_circle_placeholder.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_bg_chip_blood_group.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/bg_chip_blood_group.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.lifelink.app-main-46:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.lifelink.app-debug-44:/layout_row_detail_item.xml.flat",
+        "source": "com.lifelink.app-main-46:/layout/row_detail_item.xml"
+    }
+]

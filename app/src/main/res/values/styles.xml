@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Rounded primary button -->
+    <style name="Widget.LifeLink.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/corner_radius_md</item>
+        <item name="backgroundTint">@color/red_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/text_size_body</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="rippleColor">@color/red_primary_light</item>
+    </style>
+
+    <!-- Outlined secondary button -->
+    <style name="Widget.LifeLink.Button.Outlined"
+        parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">@dimen/corner_radius_md</item>
+        <item name="strokeColor">@color/red_primary</item>
+        <item name="android:textColor">@color/red_primary</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- TextInputLayout -->
+    <style name="Widget.LifeLink.TextInputLayout"
+        parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">@dimen/corner_radius_sm</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/corner_radius_sm</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/corner_radius_sm</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/corner_radius_sm</item>
+        <item name="boxStrokeColor">@color/red_primary</item>
+        <item name="hintTextColor">@color/red_primary</item>
+    </style>
+
+    <!-- Material Card -->
+    <style name="Widget.LifeLink.Card"
+        parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/corner_radius_md</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="rippleColor">@color/ripple</item>
+    </style>
+
+    <!-- ===================================================== -->
+    <!-- Base Text Appearance (MISSING STYLE ADDED) -->
+    <!-- ===================================================== -->
+    <style name="TextAppearance.LifeLink"
+        parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">@dimen/text_size_body</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <!-- Headline -->
+    <style name="TextAppearance.LifeLink.Headline"
+        parent="TextAppearance.LifeLink">
+        <item name="android:textSize">@dimen/text_size_headline</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Title -->
+    <style name="TextAppearance.LifeLink.Title"
+        parent="TextAppearance.LifeLink">
+        <item name="android:textSize">@dimen/text_size_title</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Body -->
+    <style name="TextAppearance.LifeLink.Body"
+        parent="TextAppearance.LifeLink">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <!-- Toolbar -->
+    <style name="TextAppearance.LifeLink.ToolbarTitle"
+        parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Divider -->
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider</item>
+    </style>
+
+</resources>
